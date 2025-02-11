@@ -93,7 +93,7 @@
 </div>
 
 ### My Art - your showcase
-##### Do you plan to see check something? Hold your horses there:
+#### Do you have a plan to check out something? Hold your horses there, My true art lies there.
 https://github.com/jiifw
 
 ### Looking for Me? I am all yours to hire.
