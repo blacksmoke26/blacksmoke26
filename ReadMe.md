@@ -76,13 +76,13 @@
 
 ## 🚀 Featured Projects
 
-### 📦 AI Prompt Enhancer
-AI Prompt Enhancer is a powerful dual-platform application that helps users improve their AI prompts through intelligent enhancement techniques, providing better results from AI models with minimal effort.
+### 📦 Synapse
+Synapse is a powerful dual-platform application that helps users improve their AI prompts through intelligent enhancement techniques, providing better results from AI models with minimal effort.
 <div align="left">
-  <a href="https://github.com/blacksmoke26/ai-prompt-enhancer">
-    <img src="https://img.shields.io/github/stars/blacksmoke26/ai-prompt-enhancer?style=flat-square&logo=github" alt="stars" />
-    <img src="https://img.shields.io/github/forks/blacksmoke26/ai-prompt-enhancer?style=flat-square&logo=github" alt="forks" />
-    <img src="https://img.shields.io/github/languages/top/blacksmoke26/ai-prompt-enhancer?style=flat-square" alt="language" />
+  <a href="https://github.com/blacksmoke26/synapse">
+    <img src="https://img.shields.io/github/stars/blacksmoke26/synapser?style=flat-square&logo=github" alt="stars" />
+    <img src="https://img.shields.io/github/forks/blacksmoke26/synapse?style=flat-square&logo=github" alt="forks" />
+    <img src="https://img.shields.io/github/languages/top/blacksmoke26/asynapse?style=flat-square" alt="language" />
   </a>
 </div>
 
