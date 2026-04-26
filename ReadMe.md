@@ -108,6 +108,7 @@
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
+| **[MCP Toolkit](https://github.com/blacksmoke26/ai-mcp-toolkit)** | 📦 Model Context Protocol Testing Interface. | ![GitHub Stars](https://img.shields.io/github/stars/blacksmoke26/ai-mcp-toolkit?style=flat-square) | ![Top Lang]
 | **[Synapse](https://github.com/blacksmoke26/synapse)** | 📦 A powerful dual-platform application for enhancing AI prompts through intelligent NLP techniques, ensuring optimized model outputs. | ![GitHub Stars](https://img.shields.io/github/stars/blacksmoke26/synapse?style=flat-square) | ![Top Lang](https://img.shields.io/github/languages/top/blacksmoke26/synapse?style=flat-square) |
 | **[posquelize](https://github.com/blacksmoke26/posquelize)** | 🗄️ Automates the generation of Sequelize models and TypeScript definitions directly from existing PostgreSQL database schemas. | ![GitHub Stars](https://img.shields.io/github/stars/blacksmoke26/posquelize?style=flat-square) | ![Top Lang](https://img.shields.io/github/languages/top/blacksmoke26/posquelize?style=flat-square) |
 | **[json2ts](https://github.com/blacksmoke26/json2ts)** | 🔄 An essential CLI tool for developers to auto-generate strongly-typed TypeScript interfaces from raw JSON objects. | ![GitHub Stars](https://img.shields.io/github/stars/blacksmoke26/json2ts?style=flat-square) | ![Top Lang](https://img.shields.io/github/languages/top/blacksmoke26/json2ts?style=flat-square) |
